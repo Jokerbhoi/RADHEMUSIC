@@ -166,8 +166,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/raichu_0701)
-- [ᴅᴇᴠɪʟ](https://t.me/lankadhipatilankesh)
+- [RAICHU](https://t.me/raichu_0701)
+- [RAVAN](https://t.me/lankadhipatilankesh)
 
 </details>
 
