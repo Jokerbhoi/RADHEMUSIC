@@ -19,7 +19,7 @@
 
 <a href="https://t.me/ABOUT_J0KER"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
-## Features Of RADHE And Commands ❤️
+## Fᴇᴀᴛᴜʀᴇꜱ Oꜰ Rᴀᴅʜᴇ Mᴜꜱɪᴄ Aɴᴅ Cᴏᴍᴍᴀɴᴅꜱ ❣
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
