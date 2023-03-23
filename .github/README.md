@@ -15,9 +15,9 @@
 
 > ⭐️ Thanks to everyone for using RADHE MUSIC,  🤭 That is the greatest pleasure we have !
 
-### Asad– History
+### DEAR_HK – History
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://t.me/ABOUT_J0KER"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 ## Features Of Alexa And Commands ❤️
 
