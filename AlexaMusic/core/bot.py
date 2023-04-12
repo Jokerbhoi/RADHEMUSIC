@@ -6,7 +6,7 @@
 
 # Owner DEAR_HK
 # lankadhipatilankesh
-# All rights reserved. © Alexa © Yukki
+# All rights reserved. © Yukki
 
 
 import sys
