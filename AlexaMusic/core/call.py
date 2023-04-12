@@ -1,7 +1,7 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
-# All rights reserved. © Alisha © Alexa © Yukki
+# Copyright (C) 2021-2022 
+# A Peacefull bot Is Radhe Music Bot
+# All rights reserved. © Yukki
 
 
 import asyncio
