@@ -1,8 +1,7 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
-# Subscribe On YT Jankari Ki Duniya
+# Cᴏᴘʏʀɪɢʜᴛ (C) 2021-2022 by Jᴏᴋᴇʀ @Github, < https://github.com/DEAR_HK >.
 
+# RADHE MUSIC мαкєѕ уσυ нαρρу αи∂ ιтѕ α ραят σf THE_JOKER_ZONE .
 from motor.motor_asyncio import AsyncIOMotorClient as _mongo_client_
 from pymongo import MongoClient
 from pyrogram import Client
