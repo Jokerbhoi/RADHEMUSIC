@@ -1,12 +1,13 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Cᴏᴘʏʀɪɢʜᴛ (C) 2021-2022 by Jᴏᴋᴇʀ @Github, < https://github.com/DEAR_HK >.
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Alexa © Yukki
+# RADHE MUSIC мαкєѕ уσυ нαρρу αи∂ ιтѕ α ραят σf THE_JOKER_ZONE .
+
+# Kanged By © @DEAR_HK
+# Group © @THE_JOKER_ZONE
+
+# lankadhipatilankesh
+# All rights reserved. ©Yukki
 
 
 import os
