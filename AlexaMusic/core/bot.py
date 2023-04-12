@@ -1,11 +1,11 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Copyright (C) 2021-2022 by JOKER
+# A Powerful Music Bot Property Of THE_JOKER_ZONE
 
-# Kanged By © @Dr_Asad_Ali
+# Kanged By © @DEAR_HK
 
-# Owner Asad Ali
-# Harshit Sharma
+# Owner DEAR_HK
+# lankadhipatilankesh
 # All rights reserved. © Alexa © Yukki
 
 
@@ -18,7 +18,7 @@ import config
 from ..logging import LOGGER
 
 
-class AlexaBot(Client):
+class RADHE_MUSIC(Client):
     def __init__(self):
         LOGGER(__name__).info(f"Starting Bot...")
         super().__init__(
