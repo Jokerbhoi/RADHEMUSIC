@@ -1,4 +1,4 @@
-# Cᴏᴘʏʀɪɢʜᴛ (C) 2021-2022 by Jᴏᴋᴇʀ @Github, < https://github.com/DEAR_HK >.
+# Cᴏᴘʏʀɪɢʜᴛ (C) 2021-2022 by Jᴏᴋᴇʀ @Github, < https://github.com/DEAR_HK >
 
 # RADHE MUSIC мαкєѕ уσυ нαρρу αи∂ ιтѕ α ραят σf THE_JOKER_ZONE .
 
